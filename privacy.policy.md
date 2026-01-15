@@ -10,4 +10,4 @@ No tracking or behavioral analytics are used.
 All data created in the app (tasks, lists, reminders) is stored locally on your device.
 
 If you have any questions regarding this privacy policy, you can contact us at:
-contact@simpliste.app
+guilhem.hosotte@gmail.com
